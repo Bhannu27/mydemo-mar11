@@ -1,2 +1,5 @@
 file 1 content
 secondline
+3rd line
+4th line
+5th line
