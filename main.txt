@@ -1,1 +1,2 @@
 My main file in main branch
+and testing the merge branch changes now 
